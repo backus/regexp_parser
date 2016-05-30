@@ -3,8 +3,6 @@
 
 Gemfile.lock
 
-lib/regexp_parser/scanner.rb
-
 doc
 .yardoc
 
